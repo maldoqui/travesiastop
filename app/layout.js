@@ -1,8 +1,8 @@
 import './globals.css'
 
 export const metadata = {
-  title: 'Travesías Top | Aventuras inolvidables',
-  description: 'Cruceros, Europa, resorts todo incluido, viajes grupales y tours personalizados con Edwin Maldonado.',
+  title: 'TravesíasTop | Agencia de Viajes en Puerto Rico',
+  description: 'Cruceros, vacaciones todo incluido, circuitos por Europa, viajes grupales y experiencias personalizadas con Edwin Maldonado.',
 }
 
 export default function RootLayout({ children }) {
